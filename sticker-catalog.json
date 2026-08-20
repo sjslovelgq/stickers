@@ -1,6 +1,6 @@
 {
   "imageBase": "https://cdn.jsdelivr.net/gh/sjslovelgq/stickers@main/stickers/",
-  "updatedAt": "2026-08-20T01:38:29.533Z",
+  "updatedAt": "2026-08-20T02:14:29.794Z",
   "stickers": [
     {
       "id": "sun",
@@ -6803,11 +6803,11 @@
       "sort": 849
     },
     {
-      "id": "right_eye -",
-      "name": "right_eye -",
+      "id": "right_eye",
+      "name": "right_eye",
       "category": "misc",
       "categoryName": "日常杂物",
-      "file": "right_eye -.png",
+      "file": "right_eye.png",
       "sort": 850
     },
     {
