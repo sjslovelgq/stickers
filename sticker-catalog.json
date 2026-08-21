@@ -1,6 +1,6 @@
 {
   "imageBase": "https://cdn.jsdelivr.net/gh/sjslovelgq/stickers@main/stickers/",
-  "updatedAt": "2026-08-20T02:58:27.480Z",
+  "updatedAt": "2026-08-21T05:43:25.835Z",
   "stickers": [
     {
       "id": "sun",
@@ -6819,12 +6819,204 @@
       "sort": 851
     },
     {
+      "id": "mouth-angry",
+      "name": "mouth-angry",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-angry.png",
+      "sort": 852
+    },
+    {
+      "id": "mouth-awkward",
+      "name": "mouth-awkward",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-awkward.png",
+      "sort": 853
+    },
+    {
+      "id": "mouth-bitter-smile",
+      "name": "mouth-bitter-smile",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-bitter-smile.png",
+      "sort": 854
+    },
+    {
+      "id": "mouth-cat-mouth",
+      "name": "mouth-cat-mouth",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-cat-mouth.png",
+      "sort": 855
+    },
+    {
+      "id": "mouth-confused",
+      "name": "mouth-confused",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-confused.png",
+      "sort": 856
+    },
+    {
+      "id": "mouth-cry",
+      "name": "mouth-cry",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-cry.png",
+      "sort": 857
+    },
+    {
+      "id": "mouth-down",
+      "name": "mouth-down",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-down.png",
+      "sort": 858
+    },
+    {
+      "id": "mouth-forced-smile",
+      "name": "mouth-forced-smile",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-forced-smile.png",
+      "sort": 859
+    },
+    {
+      "id": "mouth-frown",
+      "name": "mouth-frown",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-frown.png",
+      "sort": 860
+    },
+    {
+      "id": "mouth-grit",
+      "name": "mouth-grit",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-grit.png",
+      "sort": 861
+    },
+    {
+      "id": "mouth-happy",
+      "name": "mouth-happy",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-happy.png",
+      "sort": 862
+    },
+    {
+      "id": "mouth-hold-tears",
+      "name": "mouth-hold-tears",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-hold-tears.png",
+      "sort": 863
+    },
+    {
+      "id": "mouth-hungry",
+      "name": "mouth-hungry",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-hungry.png",
+      "sort": 864
+    },
+    {
+      "id": "mouth-laugh",
+      "name": "mouth-laugh",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-laugh.png",
+      "sort": 865
+    },
+    {
+      "id": "mouth-nervous",
+      "name": "mouth-nervous",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-nervous.png",
+      "sort": 866
+    },
+    {
+      "id": "mouth-pout",
+      "name": "mouth-pout",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-pout.png",
+      "sort": 867
+    },
+    {
+      "id": "mouth-sad",
+      "name": "mouth-sad",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-sad.png",
+      "sort": 868
+    },
+    {
+      "id": "mouth-smile",
+      "name": "mouth-smile",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-smile.png",
+      "sort": 869
+    },
+    {
+      "id": "mouth-smirk",
+      "name": "mouth-smirk",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-smirk.png",
+      "sort": 870
+    },
+    {
+      "id": "mouth-speechless",
+      "name": "mouth-speechless",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-speechless.png",
+      "sort": 871
+    },
+    {
+      "id": "mouth-surprise",
+      "name": "mouth-surprise",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-surprise.png",
+      "sort": 872
+    },
+    {
+      "id": "mouth-tired",
+      "name": "mouth-tired",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-tired.png",
+      "sort": 873
+    },
+    {
+      "id": "mouth-tongue",
+      "name": "mouth-tongue",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-tongue.png",
+      "sort": 874
+    },
+    {
+      "id": "mouth-wronged",
+      "name": "mouth-wronged",
+      "category": "misc",
+      "categoryName": "日常杂物",
+      "file": "mouth-wronged.png",
+      "sort": 875
+    },
+    {
       "id": "unicorn",
       "name": "独角兽",
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "unicorn.png",
-      "sort": 852
+      "sort": 876
     },
     {
       "id": "dragon",
@@ -6832,7 +7024,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "dragon.png",
-      "sort": 853
+      "sort": 877
     },
     {
       "id": "fairy",
@@ -6840,7 +7032,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "fairy.png",
-      "sort": 854
+      "sort": 878
     },
     {
       "id": "wizard",
@@ -6848,7 +7040,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "wizard.png",
-      "sort": 855
+      "sort": 879
     },
     {
       "id": "magic-wand",
@@ -6856,7 +7048,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "magic-wand.png",
-      "sort": 856
+      "sort": 880
     },
     {
       "id": "crystal",
@@ -6864,7 +7056,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "crystal.png",
-      "sort": 857
+      "sort": 881
     },
     {
       "id": "potion",
@@ -6872,7 +7064,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "potion.png",
-      "sort": 858
+      "sort": 882
     },
     {
       "id": "cauldron",
@@ -6880,7 +7072,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "cauldron.png",
-      "sort": 859
+      "sort": 883
     },
     {
       "id": "castle",
@@ -6888,7 +7080,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "castle.png",
-      "sort": 860
+      "sort": 884
     },
     {
       "id": "crown-f",
@@ -6896,7 +7088,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "crown-f.png",
-      "sort": 861
+      "sort": 885
     },
     {
       "id": "sword",
@@ -6904,7 +7096,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "sword.png",
-      "sort": 862
+      "sort": 886
     },
     {
       "id": "shield",
@@ -6912,7 +7104,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "shield.png",
-      "sort": 863
+      "sort": 887
     },
     {
       "id": "treasure",
@@ -6920,7 +7112,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "treasure.png",
-      "sort": 864
+      "sort": 888
     },
     {
       "id": "gem",
@@ -6928,7 +7120,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "gem.png",
-      "sort": 865
+      "sort": 889
     },
     {
       "id": "key-magic",
@@ -6936,7 +7128,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "key-magic.png",
-      "sort": 866
+      "sort": 890
     },
     {
       "id": "book-spell",
@@ -6944,7 +7136,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "book-spell.png",
-      "sort": 867
+      "sort": 891
     },
     {
       "id": "broom-witch",
@@ -6952,7 +7144,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "broom-witch.png",
-      "sort": 868
+      "sort": 892
     },
     {
       "id": "cat-magic",
@@ -6960,7 +7152,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "cat-magic.png",
-      "sort": 869
+      "sort": 893
     },
     {
       "id": "owl-f",
@@ -6968,7 +7160,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "owl-f.png",
-      "sort": 870
+      "sort": 894
     },
     {
       "id": "phoenix",
@@ -6976,7 +7168,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "phoenix.png",
-      "sort": 871
+      "sort": 895
     },
     {
       "id": "pegasus",
@@ -6984,7 +7176,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "pegasus.png",
-      "sort": 872
+      "sort": 896
     },
     {
       "id": "mermaid-f",
@@ -6992,7 +7184,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "mermaid-f.png",
-      "sort": 873
+      "sort": 897
     },
     {
       "id": "genie",
@@ -7000,15 +7192,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "genie.png",
-      "sort": 874
-    },
-    {
-      "id": "alien",
-      "name": "外星人",
-      "category": "fantasy",
-      "categoryName": "童话萌物",
-      "file": "alien.png",
-      "sort": 875
+      "sort": 898
     },
     {
       "id": "ufo",
@@ -7016,7 +7200,7 @@
       "category": "fantasy",
       "categoryName": "童话萌物",
       "file": "ufo.png",
-      "sort": 876
+      "sort": 899
     },
     {
       "id": "knitting",
@@ -7024,7 +7208,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "knitting.png",
-      "sort": 877
+      "sort": 900
     },
     {
       "id": "sewing",
@@ -7032,7 +7216,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "sewing.png",
-      "sort": 878
+      "sort": 901
     },
     {
       "id": "camera-hobby",
@@ -7040,7 +7224,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "camera-hobby.png",
-      "sort": 879
+      "sort": 902
     },
     {
       "id": "polaroid",
@@ -7048,7 +7232,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "polaroid.png",
-      "sort": 880
+      "sort": 903
     },
     {
       "id": "film",
@@ -7056,7 +7240,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "film.png",
-      "sort": 881
+      "sort": 904
     },
     {
       "id": "diary",
@@ -7064,7 +7248,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "diary.png",
-      "sort": 882
+      "sort": 905
     },
     {
       "id": "stamp-collect",
@@ -7072,7 +7256,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "stamp-collect.png",
-      "sort": 883
+      "sort": 906
     },
     {
       "id": "coin-collect",
@@ -7080,7 +7264,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "coin-collect.png",
-      "sort": 884
+      "sort": 907
     },
     {
       "id": "puzzle",
@@ -7088,7 +7272,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "puzzle.png",
-      "sort": 885
+      "sort": 908
     },
     {
       "id": "chess",
@@ -7096,7 +7280,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "chess.png",
-      "sort": 886
+      "sort": 909
     },
     {
       "id": "mahjong",
@@ -7104,7 +7288,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "mahjong.png",
-      "sort": 887
+      "sort": 910
     },
     {
       "id": "cards",
@@ -7112,7 +7296,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "cards.png",
-      "sort": 888
+      "sort": 911
     },
     {
       "id": "dice",
@@ -7120,7 +7304,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "dice.png",
-      "sort": 889
+      "sort": 912
     },
     {
       "id": "lego",
@@ -7128,7 +7312,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "lego.png",
-      "sort": 890
+      "sort": 913
     },
     {
       "id": "model-kit",
@@ -7136,7 +7320,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "model-kit.png",
-      "sort": 891
+      "sort": 914
     },
     {
       "id": "fishing",
@@ -7144,7 +7328,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "fishing.png",
-      "sort": 892
+      "sort": 915
     },
     {
       "id": "gardening",
@@ -7152,7 +7336,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "gardening.png",
-      "sort": 893
+      "sort": 916
     },
     {
       "id": "pottery",
@@ -7160,7 +7344,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "pottery.png",
-      "sort": 894
+      "sort": 917
     },
     {
       "id": "origami",
@@ -7168,7 +7352,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "origami.png",
-      "sort": 895
+      "sort": 918
     },
     {
       "id": "calligraphy",
@@ -7176,7 +7360,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "calligraphy.png",
-      "sort": 896
+      "sort": 919
     },
     {
       "id": "reading",
@@ -7184,7 +7368,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "reading.png",
-      "sort": 897
+      "sort": 920
     },
     {
       "id": "podcast",
@@ -7192,7 +7376,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "podcast.png",
-      "sort": 898
+      "sort": 921
     },
     {
       "id": "vlog",
@@ -7200,7 +7384,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "vlog.png",
-      "sort": 899
+      "sort": 922
     },
     {
       "id": "boardgame",
@@ -7208,7 +7392,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "boardgame.png",
-      "sort": 900
+      "sort": 923
     },
     {
       "id": "journal",
@@ -7216,7 +7400,7 @@
       "category": "hobbies",
       "categoryName": "爱好日常",
       "file": "journal.png",
-      "sort": 901
+      "sort": 924
     }
   ]
 }
